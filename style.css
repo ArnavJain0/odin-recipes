@@ -1,0 +1,11 @@
+.main {
+    background-color: rgb(23, 246, 38);
+}
+.heading {
+    font-size: 100px;
+    color: rgb(255, 114, 13);
+}
+.ul {
+    font-size: 50px;
+    color: hsl(201, 86%, 25%);
+}
