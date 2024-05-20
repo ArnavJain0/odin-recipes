@@ -1,0 +1,25 @@
+.main {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(245, 248, 188);
+}
+
+.heading {
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(115, 25, 200);
+}
+
+.pg {
+    font-size: x-large;
+    text-align: right;
+}
+
+.ul {
+    font-size: 30px;
+    color: hsl(343, 94%, 49%);
+}
+
+.ol {
+    font-size: 25px;
+}
+
