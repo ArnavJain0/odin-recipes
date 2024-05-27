@@ -10,3 +10,17 @@
     font-size: 50px;
     color: hsl(201, 86%, 25%);
 }
+button {
+    background-color: rgb(178, 116, 240);
+    color: #000;
+    height: 15px;
+    width: 300px;
+    display: block;
+    padding: 50px;
+    margin: 32px auto;
+}
+a {
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+}
