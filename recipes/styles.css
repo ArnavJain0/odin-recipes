@@ -23,7 +23,7 @@
     font-size: 25px;
 }
 
-.image-container {
+/* .image-container {
     max-width: 100%;
     height: auto;
 }
@@ -38,4 +38,9 @@ img {
     .image-container {
         max-width: 100%;
     }
+} */
+
+img {
+    margin: 0 auto;
+    width: 1000px;
 }
