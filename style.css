@@ -13,8 +13,8 @@
 button {
     background-color: rgb(178, 116, 240);
     color: #000;
-    height: 15px;
-    width: 300px;
+    height: auto;
+    width: 250px;
     display: block;
     padding: 50px;
     margin: 32px auto;
